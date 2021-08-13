@@ -3,7 +3,7 @@
 <h2>Hi, I’m SoEun.🥳 <!--- 👋 &#128515;--->
  </h2>
 
-and I majored in Department of Software and Communications Engineering 
+
  </br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)
  <!---https://hits.seeyoufarm.com/ -->
