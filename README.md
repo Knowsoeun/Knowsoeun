@@ -1,7 +1,8 @@
  <div align="center">
- 👋 Hi, I’m Soeun.
+ 👋 Hi, I’m SoEun.
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)
+ <!---https://hits.seeyoufarm.com/ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=white)](https://github.com/Knowsoeun/Knowsoeun)
  </div>
