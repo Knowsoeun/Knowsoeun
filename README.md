@@ -13,20 +13,24 @@
   <!---dracula--->
  
 </dv> 
-
-<h3>&#10024;Major&#10024;  <!------>
+<!---
+<h3>&#10024;Major&#10024;  
  </h3>
-
+ --->
+</br>
+ 
+ 
  
   <img src="https://img.shields.io/badge/C++-378ce5?style=flat-square&logo=CPLUSPLUS&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python3-f0ed8a?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVA-e97b52?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-e97b52?style=flat-square&logo=java&logoColor=white"/></br>
      <img src="https://img.shields.io/badge/R-dcdcd1?style=flat-square&logo=r&logoColor=white"/>
- 
+</br>
 
- 
-<h3>&#10024;Cowork tools&#10024; <!------>
+ <!---
+<h3>&#10024;Cowork tools&#10024; 
  </h3>
+--->
 
  
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
