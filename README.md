@@ -6,8 +6,19 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=dracula)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=white)](https://github.com/Knowsoeun/Knowsoeun)
- </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=dark)](https://github.com/Knowsoeun/Knowsoeun)
+
+ <!---Data --->
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CSS3-1c29d8?style=flat-square&logo=CSS3&logoColor=white"/> 
+<!---Major--->
+  <img src="https://img.shields.io/badge/C++-378ce5?style=flat-square&logo=CPLUSPLUS&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python3-f0ed8a?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-e97b52?style=flat-square&logo=java&logoColor=white"/>
+     <img src="https://img.shields.io/badge/R-dcdcd1?style=flat-square&logo=r&logoColor=white"/>
+ 
+  </div>
+ 
 <!---# 아래 mkdown을 참조해서, 자신의 github에 사용하자
 - username=[사용자이름]
 - langs_count=[화면에 표기될 언어갯수]
