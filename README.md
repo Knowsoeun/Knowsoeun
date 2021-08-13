@@ -1,6 +1,10 @@
+ <div align="center">
  👋 Hi, I’m Soeun.
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=white)](https://github.com/Knowsoeun/Knowsoeun)
+ </div>
 <!---# 아래 mkdown을 참조해서, 자신의 github에 사용하자
 - username=[사용자이름]
 - langs_count=[화면에 표기될 언어갯수]
