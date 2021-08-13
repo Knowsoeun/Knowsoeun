@@ -1,9 +1,10 @@
 </dv>
 <div align="center">
-<h2>Hi, I’m SoEun. <!--- 👋 &#128515;--->
+<h2>Hi, I’m SoEun.🥳 <!--- 👋 &#128515;--->
  </h2>
 
- 
+and I majored in Department of Software and Communications Engineering 
+ </br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)
  <!---https://hits.seeyoufarm.com/ -->
   ![a_9220601500_2026e1098266bc6df433535f5217afb103564ccf](https://user-images.githubusercontent.com/63652571/129332389-e8e63a8e-838a-4a68-a521-37f843e4cb17.gif)
@@ -20,16 +21,18 @@
 </br>
  
   <img src="https://img.shields.io/badge/C++-378ce5?style=flat-square&logo=CPLUSPLUS&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python3-f0ed8a?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python3-ffce00?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVA-e97b52?style=flat-square&logo=java&logoColor=white"/></br>
-     <img src="https://img.shields.io/badge/R-dcdcd1?style=flat-square&logo=r&logoColor=white"/>
+     <img src="https://img.shields.io/badge/R-c6c2b9?style=flat-square&logo=r&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Drone coding-050300?style=flat-square&logo=drone&logoColor=white"/>
 
 </br>
  <!---
 <h3>&#10024;Cowork tools&#10024; 
  </h3>
 --->
-</br>
+<img src="https://img.shields.io/badge/arduino-2d8a84?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/MFC-ea9618?style=flat-square&logo=MFC&logoColor="/>
 
 
  
