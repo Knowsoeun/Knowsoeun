@@ -8,13 +8,18 @@
  <!---https://hits.seeyoufarm.com/ -->
  
 </div><h3> Solved.ac Tier<div align="center">
+
  
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=dracula) -->
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=orpia)](https://solved.ac/orpia)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&layout=compact&theme=dark)](https://github.com/Knowsoeun/github-readme-stats)
+ 
+ </div><h3> Solved.ac Tier<div align="center">
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=white)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&layout=compact&theme=white)](https://github.com/Knowsoeun/github-readme-stats)
+ 
  
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=orpia)](https://solved.ac/orpia/)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=dark)](https://github.com/Knowsoeun/Knowsoeun)-->
@@ -29,7 +34,7 @@
 
  <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
  
-  <!---dracula--->
+  <!---dracula  tokyonight--->
 </dv> 
 <h3>🛠Tech Stack🛠  
  </h3>
