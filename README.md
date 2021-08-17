@@ -48,8 +48,7 @@ Techs that I've worked on at least one project
 </br>
 </br>
  
-  <img src="https://img.shields.io/badge/C++-378ce5?style=flat-square&logo=CPLUSPLUS&logoColor=white"/> <img src="https://img.shields.io/badge/Python3-ffce00?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVA-e97b52?style=flat-square&logo=java&logoColor=white"/></br><img src="https://img.shields.io/badge/R-c6c2b9?style=flat-square&logo=r&logoColor=white"/>  <img src="https://img.shields.io/badge/Drone coding-050300?style=flat-square&logo=drone&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/arduino-2d8a84?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MFC-ea9618?style=flat-square&logo=MFC&logoColor="/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1c29d8?style=flat-square&logo=CSS3&logoColor=white"/> <br/>
+  <img src="https://img.shields.io/badge/C++-378ce5?style=flat-square&logo=CPLUSPLUS&logoColor=white"/> <img src="https://img.shields.io/badge/Python3-ffce00?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVA-e97b52?style=flat-square&logo=java&logoColor=white"/></br>  <img src="https://img.shields.io/badge/R-c6c2b9?style=flat-square&logo=r&logoColor=white"/>  <img src="https://img.shields.io/badge/Drone coding-050300?style=flat-square&logo=drone&logoColor=white"/> <img src="https://img.shields.io/badge/arduino-2d8a84?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MFC-ea9618?style=flat-square&logo=MFC&logoColor="/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1c29d8?style=flat-square&logo=CSS3&logoColor=white"/> <br/>
  
   </div>
  <br/><br/>
