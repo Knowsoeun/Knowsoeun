@@ -1,24 +1,29 @@
 </dv>
-<div align="center">
-<h2>Hi, I’m SoEun.🥳 <!--- 👋 &#128515;--->
- </h2>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)
+<h2>
  <!---https://hits.seeyoufarm.com/ -->
- 
-</div><h3> Solved.ac Tier<div align="center">
 
+🍨Hi there, I’m Soeun
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)
+
+ </h2>
+ <h2>Who am I　　　　　　　　               　　　　　　　　 　Experience</h2>
  
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=dracula) -->
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=orpia)](https://solved.ac/orpia)
+-🌱 I’m currently learning 　　　　          　　　           　　　　　　          　　　          　　           　　     -🏬   
+-👩🏻‍🎓 I majored in software convergence.    
+-👀 I’m interested in   
+-🧐 My personal blog : https://red-rabbit9.tistory.com/  
+
+ <h2>My Github Stats</h2>  
+
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=white)](https://github.com/Knowsoeun/Knowsoeun)
+
+![a_9220601500_2026e1098266bc6df433535f5217afb103564ccf](https://user-images.githubusercontent.com/63652571/129332389-e8e63a8e-838a-4a68-a521-37f843e4cb17.gif)　　　　　　　　
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=orpia)](https://solved.ac/orpia)
+ </div><h3>
  
- 
- </div><h3> Solved.ac Tier<div align="center">
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=dark)](https://github.com/Knowsoeun/Knowsoeun)
+
  
  
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=orpia)](https://solved.ac/orpia/)-->
@@ -27,18 +32,21 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun)](https://github.com/Knowsoeun/github-readme-stats)-->
 
  <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
- 
-  ![a_9220601500_2026e1098266bc6df433535f5217afb103564ccf](https://user-images.githubusercontent.com/63652571/129332389-e8e63a8e-838a-4a68-a521-37f843e4cb17.gif)
+ <h3> 
+
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=dracula) -->
+
 
 
 
  <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
  
   <!---dracula  tokyonight--->
-</dv> 
-<h3>🛠Tech Stack🛠  
- </h3>
- Techs that I've worked on at least one project
+</dv> <div align="center">
+ <h3>🛠Tech Stack🛠</h3>
+ 
+Techs that I've worked on at least one project
 </br>
 </br>
  
