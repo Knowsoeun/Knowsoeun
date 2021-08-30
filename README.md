@@ -9,7 +9,7 @@
  <h2>Who am I　　　　　　　　               　　　　　　　　 　Experience</h2>
  
 -🌱 I’m currently learning Data Analysis/Refinement.　　　　    　     　　　        -🧏‍♀️Currently developing Swift Application  
--👩🏻‍🎓 I majored in software convergence.　          　　　　　         　          　 　　　         　      　-🏬Pharmaceutical company web page front-end part-time job
+-👩🏻‍🎓 I majored in software convergence.　          　　　　　         　          　 　　　         　      　-🏬Pharmaceutical company web page front-end part-time job<br>
 -👀 I’m interested in AI, Data Analysis,Machine learning.        　     　 　         　 　　-✈Drone Coding Competition Award<br>
 -🧐 My personal blog : https://red-rabbit9.tistory.com/ 　 　 　　    　   　        -📋 Java Programming Essay Award<br>
 
