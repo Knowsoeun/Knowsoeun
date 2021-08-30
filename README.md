@@ -8,9 +8,9 @@
  </h2>
  <h2>Who am I　　　　　　　　               　　　　　　　　 　Experience</h2>
  
--🌱 I’m currently learning Data Analysis/Refinement.　　　　          　　　           　　　　　　          　　　          　　           　　     -🏬   
+-🌱 I’m currently learning Data Analysis/Refinement.　　　　          　　　   　　       -🏬   
 -👩🏻‍🎓 I majored in software convergence.    
--👀 I’m interested in AI, Data Analysis.  
+-👀 I’m interested in AI, Data Analysis,Machine learning.  
 -🧐 My personal blog : https://red-rabbit9.tistory.com/  
 
  <h2>My Github Stats</h2>  
