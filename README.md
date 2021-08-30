@@ -8,8 +8,8 @@
  </h2>
  <h2>Who am I　　　　　　　　               　　　　　　　　 　Experience</h2>
  
--🌱 I’m currently learning Data Analysis/Refinement.　　　　          　　　   　　       -🏬   
--👩🏻‍🎓 I majored in software convergence.    
+-🌱 I’m currently learning Data Analysis/Refinement.　　　　    　     　　　        -🏬Pharmaceutical company web page front-end part-time job   
+-👩🏻‍🎓 I majored in software convergence.　          　　　　　         　          　 　　　         　      　-✈Drone Coding Competition Award<br>
 -👀 I’m interested in AI, Data Analysis,Machine learning.  
 -🧐 My personal blog : https://red-rabbit9.tistory.com/  
 
