@@ -8,7 +8,7 @@
  </h2>
  <h2>Who am I　　　　　　　　               　　　　　　　　 　Experience</h2>
  
--🌱 I’m currently learning Data Analysis, Swift.　　　　    　     　　     　　　　    -🧏‍♀️Currently developing Swift Application(2021.8 ~)  
+-🌱 I’m currently learning Data Analysis, Swift. 　　　　    　     　    　　　　    -🧏‍♀️Currently developing Swift Application(2021.8 ~)  
 -👩🏻‍🎓 I majored in software convergence.　          　　　　　         　          　 　　　         　      　-🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>
 -👀 I’m interested in AI, Data Analysis,Machine learning.        　     　 　         　 　　-✈Drone Coding Competition Leader (2019.3 ~ 2019.4)<br>
 -🧐 My personal blog : https://red-rabbit9.tistory.com/ 　 　 　　    　   　        -📋 Java Programming Essay Award (2020.10)<br>
