@@ -10,7 +10,7 @@
  
 -🌱 I’m currently learning Data Analysis 　　　 　　　　    　     　    　　 -🧏‍♀️Public data internship (2021.8 ~)  
 -👩🏻‍🎓 I majored in software convergence.　          　　　　　         　          　　　         　   　-🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>
--👀 I’m interested in AI, Data Analysis,Machine learning.        　     　 　 　     　-📋 Java Programming Essay Award (2020.10)<br>
+-👀 I’m interested in AI, Data Analysis,Machine learning.        　     　 　 　    　-📋 Java Programming Essay Award (2020.10)<br>
 -🧐 My personal blog : https://red-rabbit9.tistory.com/ 　 　 　　    　        -✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br>
 
  <h2>My Github Stats</h2>  
