@@ -16,7 +16,7 @@
  <h2>My Github Stats</h2>  
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=white) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=white)](https://github.com/Knowsoeun/Knowsoeun)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=white) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=white)](https://github.com/Knowsoeun/Knowsoeun)-->
 <!--![a_9220601500_2026e1098266bc6df433535f5217afb103564ccf](https://user-images.githubusercontent.com/63652571/129332389-e8e63a8e-838a-4a68-a521-37f843e4cb17.gif)　
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
  </div><h3>
@@ -38,7 +38,7 @@
 
 
 
- [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)
  
   <!---테마 : dracula  tokyonight--->
 <h2>🛠Tech Stack</h2> 
