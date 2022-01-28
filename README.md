@@ -38,7 +38,7 @@
 
 
 
- <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)
  
   <!---테마 : dracula  tokyonight--->
 <h2>🛠Tech Stack</h2> 
