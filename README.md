@@ -10,11 +10,11 @@
  
 -🌱 I’m currently learning ML. 　　　 　　　　       　　　　  　　    　　 -🌉Posco BigData&AI Academy (2021.10 ~ 2021.12)  
 -👩🏻‍🎓 I majored in software convergence.　         　　　　　　　   　        　   　-🧏‍♀️Public data internship (2021.8 ~ 2021.11)<br>
--👀 I’m interested in AI, Data Analysis.　 　 　　　　　　　　　      　    -🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>
--🧐 My personal blog : https://red-rabbit9.tistory.com/ 　 　 　　          -📋 Java Programming Essay Award (2020.10)<br>
- 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 -✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br>
+-👀 I’m interested in AI, Data Analysis.　 　 　　　　　　　　　      　   -✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br><!---🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>-->
+<!---🧐 My personal blog : https://red-rabbit9.tistory.com/--> 　 　 　　          <!---📋 Java Programming Essay Award (2020.10)<br>-->
+ 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 
 
- <h2>My Github Stats</h2>  
+ <!--<h2>My Github Stats</h2> -->
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knowsoeun&show_icons=true&theme=white) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun&langs_count=5&layout=compact&theme=white)](https://github.com/Knowsoeun/Knowsoeun)-->
@@ -30,7 +30,7 @@
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowsoeun)](https://github.com/Knowsoeun/github-readme-stats)-->
 
- <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
+ <!--[![Solved.mac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
  <h3> 
 
 
@@ -39,7 +39,7 @@
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)
+<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
  
   <!---테마 : dracula  tokyonight--->
 <h2>🛠Tech Stack</h2> 
