@@ -8,8 +8,8 @@
  </h2>
  <h2>Who am I　　　　　　　　               　　　　　　　　 　Experience</h2>
  
--🌱 I’m currently learning ML. 　　   　 -🌉Posco BigData&AI Academy (2021.10 ~ 2021.12)  
--👩🏻‍🎓 I majored in software convergence.　     　  -🧏‍♀️Public data internship (2021.8 ~ 2021.11)<br>
+-🌱 I’m currently learning ML. 　　   　　 -🌉Posco BigData&AI Academy (2021.10 ~ 2021.12)  
+-👩🏻‍🎓 I majored in software convergence.　       -🧏‍♀️Public data internship (2021.8 ~ 2021.11)<br>
 -👀 I’m interested in AI, Data Analysis.　-✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br><!---🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>-->
 <!---🧐 My personal blog : https://red-rabbit9.tistory.com/--> 　 　 　　          <!---📋 Java Programming Essay Award (2020.10)<br>-->
  　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 
