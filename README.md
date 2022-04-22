@@ -3,7 +3,7 @@
  <!---https://hits.seeyoufarm.com/ -->  
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?color=eee6c4&type=waving&height=300&section=header&text=🍨Hi there, I’m Soeun&animation=fadeIn&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?color=404040&type=waving&height=300&section=header&text=🍨Hi there, I’m Soeun&animation=fadeIn&fontSize=70" />
 </p>
  
 <!--🍨Hi there, I’m Soeun-->
