@@ -16,4 +16,4 @@
 -👩🏻‍🎓 I majored in software convergence.　      -🧏‍♀️Public data internship (2021.8 ~ 2021.11)<br>
 -👀 I’m interested in AI, Data Analysis.　　-✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br>-📃Remove fingerprints using DNN (Patent license) (2020.3 ~ 2021.5) <!---🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>-->  
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowsoeun&layout=compact&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowsoeun&layout=compact&theme=gruvbox)
