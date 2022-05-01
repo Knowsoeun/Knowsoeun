@@ -12,9 +12,9 @@
  </h2>
  <h2>Who am I　　　　　　　　               　　　　　　　　 　Experience</h2>
  
--🌱 I’m currently learning ML. 　　　　　　  　　　　 　　　 -🌉Posco BigData&AI Academy (2021.10 ~ 2021.12)  
--👩🏻‍🎓 I majored in software convergence.　 　　　　　　　　     -🧏‍♀️Public data internship (2021.8 ~ 2021.11)<br>
--👀 I’m interested in AI, Data Analysis.　　　　　　　　　　-✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br>-📃Remove fingerprints using DNN (Patent license) (2020.3 ~ 2021.5) <!---🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>-->  
+-🌱 I’m currently learning ML. 　　　　　　  　　　　 　　　　　　　 -🌉Posco BigData&AI Academy (2021.10 ~ 2021.12)  
+-👩🏻‍🎓 I majored in software convergence.　 　　　　　　　　　　　　     -🧏‍♀️Public data internship (2021.8 ~ 2021.11)<br>
+-👀 I’m interested in AI, Data Analysis.　　　　　　　　　　　　　　-✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br>-📃Remove fingerprints using DNN (Patent license) (2020.3 ~ 2021.5) <!---🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>-->  
 <br>
 <!--　　　　![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowsoeun&layout=compact&theme=white)　　　　
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=orpia)](https://solved.ac/orpia)-->
