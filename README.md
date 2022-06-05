@@ -16,6 +16,6 @@
 -👩🏻‍🎓 I majored in software convergence.　 　　　　　　　　　　　　　　     -🧏‍♀️Public data internship (2021.8 ~ 2021.11)<br>
 -👀 I’m interested in AI, Data Analysis.　　　　　　　　　　　　　　　　-✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br>-📃Remove fingerprints using DNN (Patent license) (2020.3 ~ 2021.5) <!---🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>-->  
 <br>
-![a_9220601500_2026e1098266bc6df433535f5217afb103564ccf](https://user-images.githubusercontent.com/63652571/129332389-e8e63a8e-838a-4a68-a521-37f843e4cb17.gif)　　　　    　　　　　![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowsoeun&layout=compact&theme=white)
+![a_9220601500_2026e1098266bc6df433535f5217afb103564ccf](https://user-images.githubusercontent.com/63652571/129332389-e8e63a8e-838a-4a68-a521-37f843e4cb17.gif)　    　　　　　![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowsoeun&layout=compact&theme=white)
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=orpia)](https://solved.ac/orpia) -->
