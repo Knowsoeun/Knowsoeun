@@ -4,7 +4,7 @@
    
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?color=ffdab9&type=waving&height=300&section=header&text=🍨Hi there, I’m Soeun&animation=fadeIn&fontSize=70" />
-</p>
+</p> 
  
 <!--🍨Hi there, I’m Soeun-->
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)-->
