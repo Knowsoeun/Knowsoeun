@@ -1,16 +1,19 @@
 </dv>  
 <h2>
  <!---https://hits.seeyoufarm.com/ -->  
-      
+<!--  팥빙수 메인 이미지 시작 -->
+<!--       
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?color=ffdab9&type=waving&height=300&section=header&text=🍨Hi there, I’m Soeun&animation=fadeIn&fontSize=70" />
-</p> 
- 
+</p>  -->
+ <!--  팥빙수 메인 이미지 끝 -->
 <!--🍨Hi there, I’m Soeun-->
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)-->
+![ThumbsupGIF (3)](https://user-images.githubusercontent.com/63652571/175758903-6f274290-0195-4e2a-aec2-c33ad98cc39f.gif)
 
  </h2>
-<!--  <h2>Who am I　　　　　　　　               　　　　　　　　 　Experience</h2>
+<!--  <h2>W![ThumbsupGIF](https://user-images.githubusercontent.com/63652571/175758895-7386715b-eb2a-424f-b662-6397f3f662ba.gif)
+　　　　　　               　　　　　　　　 　Experience</h2>
  
 -🌱 I’m currently learning ML. 　　　　　　　　  　　　　 　　　　　　　 -🅿️Posco ICT (2022.4 ~ )  
 -👩🏻‍🎓 I majored in software convergence.　 　　　　　　　　　　　　　　     -🌉Posco BigData&AI Academy (2021.10 ~ 2021.12)<br>
