@@ -31,3 +31,4 @@
 |AI Image processing (Patent)|Python, C++|Seoul Univ.|2020.03~2021.01|
 |Drone Coding|Python|Seoul Univ.|2019.03~2019.04|
  -->
+　　　　 　　　　 　　　　 　　　　 ![EunuchComicGIF (2)](https://user-images.githubusercontent.com/63652571/177023943-a945dca0-7cc6-4dd6-806d-ce374d824938.gif)
