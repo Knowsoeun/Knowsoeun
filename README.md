@@ -1,7 +1,7 @@
  </dv>  
 <h2>     
  <!---https://hits.seeyoufarm.com/ -->  
-<!--  팥빙수 메인 이미지 시작 --> 
+<!--  팥빙수 메인 이미지 시작 -->  
      
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?color=ffdab9&type=waving&height=300&section=header&text=🍨Hi there, I’m Soeun&animation=fadeIn&fontSize=70" />
