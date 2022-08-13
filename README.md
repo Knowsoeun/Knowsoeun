@@ -1,11 +1,10 @@
- </dv>   
+ </dv>   　 　 　 　 　 　 　 　 　 　 　 　 　 　 　　![BabyKissGIF](https://user-images.githubusercontent.com/63652571/184487013-4e7e5aa0-67ca-4001-82b6-803754062cf2.gif)
+
 <h2>     
  <!---https://hits.seeyoufarm.com/ -->  
 <!--  팥빙수 메인 이미지 시작 -->  
-     
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?color=ffdab9&type=waving&height=300&section=header&text=🍨Hi there, I’m Soeun&animation=fadeIn&fontSize=70" />
-</p>  
+
+
  <!--  팥빙수 메인 이미지 끝 -->
 <!--🍨Hi there, I’m Soeun-->
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnowsoeun%2FKnowsoeun&count_bg=%23D71515&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Knowsoeun/Knowsoeun)-->
