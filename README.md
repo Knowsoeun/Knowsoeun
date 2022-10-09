@@ -11,7 +11,7 @@
  </h2>
   <h2>Experience</h2>
  
--🌱 I’m currently learning ML. 　　　　　　　　  　　　　 　　　　　　　 -🅿️Posco ICT (2022.4 ~ )  
+-🌱 I’m currently learning ML. 　　　　　　　　  　　　　 　　　　　　　 -🅿️Posco (2022.10~ )  
 -👩🏻‍🎓 I majored in software convergence.　 　　　　　　　　　　　　　　     -🌉Posco BigData&AI Academy (2021.10 ~ 2021.12)<br>
 -👀 I’m interested in AI, Data Analysis.　　　　　　　　　　　　　　　　-🧏‍♀️Public data internship (2021.8 ~ 2021.11)<br>-📃Remove fingerprints using DNN (Patent license) (2020.3 ~ 2021.5) <!---🏬Pharmaceutical company web front-end (2021.2 ~ 2021.6)<br>-->　　
  -✈Drone Coding Competition Leader (2019.3 ~ 2019.4) <br> 
