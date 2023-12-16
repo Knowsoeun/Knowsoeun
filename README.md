@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=8977ad&height=300&section=header&text=Hello%20I'm%20Soeun&fontSize=90&fontColor=000000&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=8977ad&height=150&section=header&text=Hello%20I'm%20Soeun&fontSize=90&fontColor=000000&animation=fadeIn)
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
