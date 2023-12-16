@@ -1,5 +1,3 @@
-## Git Pjt 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowsoeun&layout=compact)](https://github.com/knowsoeun/github-readme-stats)
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
