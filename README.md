@@ -1,4 +1,7 @@
-## skills
+## Git Pjt 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowsoeun&layout=compact)](https://github.com/knowsoeun/github-readme-stats)
+
+## Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -9,6 +12,10 @@
 
 <!-- ##### BackEnd ① Java + Spring ② Oracle + PL/SQL -->
 
+## Tools  
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
          
  <!---https://hits.seeyoufarm.com/ -->   
 <!--  팥빙수 메인 이미지 시작 -->     
